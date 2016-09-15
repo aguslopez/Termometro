@@ -1,6 +1,7 @@
 <?php
 
 #Tipos:	1->Celsius 	2->Kelvin 	3->Fahrenheit
+#Programa sobre termometros
 
 class Termometro{
 
